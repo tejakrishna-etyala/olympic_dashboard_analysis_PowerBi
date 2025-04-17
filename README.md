@@ -31,14 +31,17 @@ This dashboard visualizes key insights from the Olympic Games dataset, allowing 
 ![Olympic Dashboard Screenshot](Olympic_dashboard/images_dashboard/Screenshot(469).png)
 
 ## 🚀 How to Use
-Download the olympic_dashboard/olympic_dashboard/olympic_dashboard.pbix file from this repository
+[Download the .pbix file](https://github.com/tejakrishna-etyala/olympic_dashboard_analysis_powerbi/raw/main/olympic_dashboard/olympic_dashboard/olympic_dashboard.pbix)
+
 
 Open it using Power BI Desktop
 
 Interact with filters, slicers, and charts to explore the data
 
 ## 🤝 Contributing
-Stakeholders & Decision Makers
-Entrepreneurs & Sports Startups
-Analysts & Researchers
-Coaches & Sports Federations
+
+- Stakeholders & Decision Makers  
+- Entrepreneurs & Sports Startups  
+- Analysts & Researchers  
+- Coaches & Sports Federations
+
