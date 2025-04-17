@@ -2,13 +2,9 @@
 
 An interactive Olympic Games dashboard built using **Power BI** to explore athlete performance, medal counts, and country-wise statistics across different editions of the Olympics.
 
----
-
 ## 📌 Project Overview
 
 This dashboard visualizes key insights from the Olympic Games dataset, allowing users to interactively filter and analyze data by year, sport, country, gender, and more. It's a great example of how to turn complex historical data into meaningful, visual storytelling.
-
----
 
 ## 🔍 Key Features
 
@@ -18,15 +14,11 @@ This dashboard visualizes key insights from the Olympic Games dataset, allowing 
 - 🏃 Filter by sport, gender, season (Summer/Winter), and year  
 - 📊 Dynamic visuals like bar charts, line charts, and maps  
 
----
-
 ## 📁 Dataset
 
 - **Source**: [120 Years of Olympic History – Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)  
 - **Format**: CSV  
 - Contains data from 1896 to 2016, including athlete names, ages, sports, events, medals, and countries.
-
----
 
 ## 🛠️ Tools Used
 
@@ -34,17 +26,12 @@ This dashboard visualizes key insights from the Olympic Games dataset, allowing 
 - **Microsoft Excel** – Data cleaning (optional)  
 - **Kaggle** – Dataset source  
 
----
-
 ## 📸 Dashboard Preview
-
-> _You can upload a screenshot here by dragging the image into your repo and using the markdown below:_
-
-```markdown
-![Olympic Dashboard Screenshot](olympic_dashboard\images_dashboard\Screenshot (469).png)
+```md
+![Olympic Dashboard Screenshot](Olympic_dashboard/images_dashboard/Screenshot(469).png)
 
 ## 🚀 How to Use
-Download the olympic_dashboard\olympic_dashboard\olympic_dashboard.pbix file from this repository
+Download the olympic_dashboard/olympic_dashboard/olympic_dashboard.pbix file from this repository
 
 Open it using Power BI Desktop
 
