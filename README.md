@@ -27,7 +27,7 @@ This dashboard visualizes key insights from the Olympic Games dataset, allowing 
 - **Kaggle** – Dataset source  
 
 ## 📸 Dashboard Preview
-```md
+
 ![Olympic Dashboard Screenshot](Olympic_dashboard/images_dashboard/Screenshot(469).png)
 
 ## 🚀 How to Use
