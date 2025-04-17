@@ -28,8 +28,7 @@ This dashboard visualizes key insights from the Olympic Games dataset, allowing 
 
 ## 📸 Dashboard Preview
 
-[Download Olympic Dashboard (.pbix)](https://github.com/tejakrishna-etyala/olympic_dashboard_analysis_powerbi/blob/main/olympic_dashboard.zip)
-
+[Download Olympic Dashboard (.pbix)](https://github.com/tejakrishna-etyala/olympic_dashboard_analysis_powerbi/blob/main/images_dashboard/Screenshot%20(469).png)
 
 ## 🚀 How to Use
 [Download the .pbix file]https://github.com/tejakrishna-etyala/olympic_dashboard_analysis_powerbi/blob/main/olympic_dashboard.zip
